@@ -77,7 +77,7 @@
     transition: all 0.3s ease;
   }
   .content .reset-btn:hover{
-    background: #10a415;
+    background: #037007;
   }
   @media screen and (max-width: 460px) {
     .wrapper {
